@@ -9,8 +9,7 @@ via Pyrogram, Telegram API and python
 Инструкция в файле по названием "instructions.md"
 
 # Отказ от ответственности
-EN
-       YOU ARE FOREWARNED
+EN - YOU ARE FOREWARNED
 Your Telegram account may get banned.   
 UserBotNeonN1tes or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
@@ -22,8 +21,7 @@ and at the end Telegram Team deleted your account. DON'T BLAME US.
 
 Thanks for using our bot 😺
 
-RU
-              ПРЕДУПРЕЖДЕНИЕ
+RU - ПРЕДУПРЕЖДЕНИЕ
 Ваша учетная запись Telegram может быть заблокирована.
 UserBotNeonN1tes или мы не несем ответственности за ваш аккаунт,
 Этот бот предназначен для того, чтобы повеселиться с некоторыми забавными командами 
