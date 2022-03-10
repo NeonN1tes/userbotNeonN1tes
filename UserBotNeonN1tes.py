@@ -22,12 +22,11 @@ app.start()
 app.stop()
 print('''   v0.7
             ┏━━━━━━━━━━━━━━━━━━━━━━
-                    Made by NanotopYT                  
-                   Созданно NanotopYT         
-                                                         
-                 Telegram: @ROmAanChiG    
+                    Made by NeonN1tes                 
+                   Создано: NeonN1tes       
+                                                    
  
-                   Автор: @ROmAanChiG 
+               Автор в Telegram: @ROmAanChiG 
                 ━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ''')
