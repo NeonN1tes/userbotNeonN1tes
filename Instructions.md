@@ -1,7 +1,12 @@
 Скачиваем "pydroid" с play market, и качаем файл 
 
 "UserBotNeonN1tes.py" и "config.ini" далее эти два файла
-Кидаем в sdcard/0, потом заходим в "pydroid" и в правом 
+
+Кидаем в sdcard/0, потом заходим в "pydroid" потом 3 полоски
+
+В левом нижнем углу потом вкладка "terminal" заходим и вводим 
+
+"pip3 install tgcrypto" И "pip3 install pyrogram" потом в правом 
 
 верхнем углу нажимаем на папку, потом "open" и 
 
